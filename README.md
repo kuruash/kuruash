@@ -1,7 +1,7 @@
 
-# ashish kurumeti
+# Ashish Kurumeti
 
-i like understanding how things work under the hood, building things from scratch, and contributing to open source.
+I like understanding how things work under the hood, building things from scratch, and contributing to open source.
 
 ### currently
 
